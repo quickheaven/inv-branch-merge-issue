@@ -1,1 +1,1 @@
-# inv-branch-merge-issue release 1.0.0
+# inv-branch-merge-issue release 1.0.XYZ
